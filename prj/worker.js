@@ -67,9 +67,9 @@ const loop = async (connection) => {
 
     console.log('connected to mysql');
 
-    loop(connection);
-
-
-    
+    loop(connection);    
 })();
+
+
+
 
